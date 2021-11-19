@@ -1,6 +1,7 @@
 # React-Pomodoro
 
 Introduction
+
 You will use React to create a simple Pomodoro timer.
 It will be static, without the need for a server.
 
