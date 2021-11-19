@@ -1,13 +1,13 @@
 # React-Pomodoro
 
-##Introduction
+## Introduction
 
 You will use React to create a simple Pomodoro timer.
 It will be static, without the need for a server.
 
 You will also discover some build tools, with Parcel, and will follow some code quality rules, with Prettier and ESLint.
 
-##Statement
+## Statement
 Following these beautiful wireframes, you will code a pomodoro timer.
 
 ##Minimal requirements
@@ -24,7 +24,7 @@ You can add anything to the timer, as long as the minimal requirements are fulfi
 
 You can add a sound at the end of the timer, add another timer in the modal to limitate the break time, add animations… feel free to try anything!
 
-##Technical concerns
+## Technical concerns
 Tooling
 ⚠️ Learning first
 In the React's documentation you'll see some solutions to create your app. One of them is Create React App, which is a toolchain containing an environment set up. We advise you to not use this for your Pomodoro.
@@ -46,7 +46,7 @@ We will use Parcel, which is a build tool "without configuration", which tries t
 
 Take a bit of your time to follow the Parcel's documentation and maybe you'll find some informations to create your React app with this bundler 😇 .
 
-##Code Quality
+## Code Quality
 Even if you're working alone on this project, we need you to enforce your code quality.
 
 You will use Prettier to format your code, and ESLint to ensure your code following good practices.
