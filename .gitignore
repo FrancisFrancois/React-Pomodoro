@@ -1,7 +1,11 @@
 node_modules
-.parcel-cache
-dist
+build
+npm-debug.log
+.env
 .DS_Store
+dist
+.cache
+.parcel-cache
 .eslintcache
 
 
